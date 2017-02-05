@@ -13,16 +13,16 @@ wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master
 wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/config.php
 mkdir static
 cd static
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/behavior.js
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/win-behavior.js
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/dinosaur.png
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/mac-network-manager.css
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/opensans.ttf
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/style.css
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/chrome-offline.css
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/jquery.js
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/opensans.css
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/question.png
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/wifi-icon.png
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/static/behavior.js
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/static/win-behavior.js
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/static/dinosaur.png
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/static/mac-network-manager.css
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/static/opensans.ttf
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/static/style.css
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/static/chrome-offline.css
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/static/jquery.js
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/static/opensans.css
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/static/question.png
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/static/wifi-icon.png
 
 echo "[-] Done!"
