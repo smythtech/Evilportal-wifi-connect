@@ -1,7 +1,7 @@
 
 <?php
 $destination = "http://". $_SERVER['HTTP_HOST'] . $_SERVER['HTTP_URI'] . "";
-include("config.php")
+include("config.php");
 ?>
 
 <html>
