@@ -8,7 +8,7 @@ echo "[-] Downloading template using wget..."
 
 wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/index.php
 wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/MyPortal.php
-wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/Wifiphisher-wifi-connect.ep
+wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/Evilportal-wifi-connect.ep
 wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/config.ini
 wget https://raw.githubusercontent.com/teabot5000/Evilportal-wifi-connect/master/config.php
 mkdir static
